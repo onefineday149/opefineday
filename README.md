@@ -1,1 +1,2 @@
-# opefineday
+# onefineday
+#simple/concise/clearly
